@@ -1,9 +1,9 @@
 <div style="display: inline_block"><br>
-  <div style="display: inline-block; background: linear-gradient(135deg, #1f1c2$
-    <img align="center" alt="Linux" height="60" width="70" src="https://cdn.jsd$
-    <img align="center" alt="Debian" height="60" width="70" src="https://cdn.js$
-    <img align="center" alt="Bash" height="60" width="70" src="https://cdn.jsde$
-    <img align="center" alt="Cplusplus" height="60" width="70" src="https://cdn$
-    <img align="center" alt="Cplusplus" height="60" width="70" src="https://cdn$
-  </div>
+  <div style="display: inline-block; background: linear-gradient(135deg, #1f1c2c, #928dab); padding: 10px; border-radius: 12px;"><br>
+    <img align="center" alt="Linux" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+    <img align="center" alt="Debian" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
+    <img align="center" alt="Bash" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+    <img align="center" alt="Cplusplus" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+    <img align="center" alt="Cplusplus" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  </div>           
 </div>
