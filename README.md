@@ -4,8 +4,7 @@
     <img align="center" alt="Debian" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />  
     <img align="center" alt="Ubuntu" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
     <img align="center" alt="Bash" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-    <img align="center" alt="Cplusplus" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
     <img align="center" alt="C" width="59" height="60" alt="image" src="https://github.com/user-attachments/assets/0fd6a8ce-cf8a-4000-adc0-20593e62b2df" />
-
+    <img align="center" alt="Cplusplus" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   </div>           
 </div>
